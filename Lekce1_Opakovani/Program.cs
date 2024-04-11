@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Vitejte na kurzu C# 2!");
+            Console.WriteLine("Bude to jizda!");
         }
     }
 }
